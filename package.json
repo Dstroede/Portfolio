@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dstroede.github.io/Porfolio",
+  "homepage": "https://dstroede.github.io/Portfolio/",
   "dependencies":{
     "@brookr/react-switch": "^6.0.1",
     "bootstrap": "^5.3.2",
@@ -22,7 +22,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "eject": "react-scripts eject"
 
   },
   "eslintConfig": {
