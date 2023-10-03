@@ -15,7 +15,7 @@
         "startDate": "2023",
         "description": "Let me introduce you to my latest project, the 'Gallery of Horns'. It's my first dive into React and Bootstrap. The application fetches cards dynamically from a data.json file, providing users with the opportunity to click on each card for additional creature details. Moreover, it includes a feature that enables users to filter animals based on the number of horns they possess. To add a touch of personalization, the app also allows users to mark their favorite creatures.",
         "images": [
-          "images/gallery-horns/galleryhorns.png"
+          "images/portfolio/gallery-horns/galleryhorns.png"
         ],
         "url": "drewhornedbeast.netlify.app",
         "technologies": [
