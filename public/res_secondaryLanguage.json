@@ -1,19 +1,19 @@
 {
   "basic_info": {
-    "description_header": "Hello",
-    "description": "I'm Drew Stroede, a software developer based in Houston, Texas. With a unique background in college athletics and a Master's Degree in Business Administration, I bring a blend of discipline and business acumen to the tech world. My career has taken me from optimizing human performance to sales and team building. But my true passion lies in web development. I'm on a mission to leverage technology to help individuals sharpen their skills, build productive habits, and reach levels of excellence they've never achieved before. I believe the web is a powerful tool for personal and professional growth. In my portfolio, you'll find a showcase of my projects and collaborations, embodying my commitment to making a positive impact through technology. Beyond my professional life, I thrive on bringing people together and fostering meaningful conversations. Let's connect and explore how we can collaborate to create something extraordinary. Together, we can make a difference in the world of technology and beyond." ,
+    "description_header": "Hola",
+    "description": "Soy Drew Stroede, un desarrollador de software con sede en Houston, Texas. Con una formación única en deportes universitarios y una Maestría en Administración de Empresas, aporto una combinación de disciplina y conocimientos empresariales al mundo de la tecnología. Mi carrera me ha llevado desde la optimización del rendimiento humano hasta las ventas y la formación de equipos. Pero mi verdadera pasión reside en el desarrollo web. Estoy en una misión para aprovechar la tecnología y ayudar a las personas a mejorar sus habilidades, construir hábitos productivos y alcanzar niveles de excelencia que nunca antes habían logrado. Creo que la web es una herramienta poderosa para el crecimiento personal y profesional. En mi portafolio encontrarás una muestra de mis proyectos y colaboraciones, que reflejan mi compromiso de tener un impacto positivo a través de la tecnología. Más allá de mi vida profesional, prospero al reunir a las personas y fomentar conversaciones significativas. Conéctate conmigo y exploremos cómo podemos colaborar para crear algo extraordinario. Juntos, podemos marcar la diferencia en el mundo de la tecnología y más allá.",
     "section_name": {
-      "about": "About me",
-      "projects": "Projects",
-      "skills": "Skills",
-      "experience": "Experience"
+      "about": "Acerca de mí",
+      "projects": "Proyectos",
+      "skills": "Habilidades",
+      "experience": "Experiencia"
     }
   },
   "projects": [
     {
-      "title": "Gallery of horns",
+      "title": "Galería de Cuernos",
       "startDate": "2023",
-      "description": "Let me introduce you to my latest project, the 'Gallery of Horns'. It's my first dive into React and Bootstrap. The application fetches cards dynamically from a data.json file, providing users with the opportunity to click on each card for additional creature details. Moreover, it includes a feature that enables users to filter animals based on the number of horns they possess. To add a touch of personalization, the app also allows users to mark their favorite creatures.",
+      "description": "Permíteme presentarte mi último proyecto, la 'Galería de Cuernos'. Es mi primera incursión en React y Bootstrap. La aplicación obtiene tarjetas dinámicamente de un archivo data.json, brindando a los usuarios la oportunidad de hacer clic en cada tarjeta para obtener detalles adicionales sobre las criaturas. Además, incluye una función que permite a los usuarios filtrar animales en función del número de cuernos que poseen. Para agregar un toque de personalización, la aplicación también permite a los usuarios marcar sus criaturas favoritas.",
       "images": [
         "images/gallery-horns/galleryhorns.png"
       ],
@@ -27,13 +27,12 @@
           "class": "devicon-bootstrap-plain",
           "name": "Bootstrap"
         }
-
       ]
     },
     {
       "title": "Pair Panic",
       "startDate": "2023",
-      "description": "Pair Panic was a collaborative effort during our final project at Code Fellows. Despite the constraints of using basic HTML, CSS, and JavaScript, we successfully crafted a highly responsive design. The website showcases a captivating matching card game that highlights the pets of each group member. Notably, the game also has the capability to record scores from users' computers.",
+      "description": "Pair Panic fue un esfuerzo colaborativo durante nuestro proyecto final en Code Fellows. A pesar de las limitaciones de utilizar HTML básico, CSS y JavaScript, creamos con éxito un diseño altamente receptivo. El sitio web presenta un cautivador juego de cartas de memoria que destaca a las mascotas de cada miembro del grupo. Notablemente, el juego también tiene la capacidad de registrar puntajes desde las computadoras de los usuarios.",
       "images": [
         "images/portfolio/pair-panic/Pair1.png",
         "images/portfolio/pair-panic/Pair2.png",
@@ -56,9 +55,9 @@
       ]
     },
     {
-      "title": "Salmon Cookies",
+      "title": "Galletas de Salmón",
       "startDate": "2023",
-      "description": "I created this website to enhance my understanding of DOM manipulations and have some fun experimenting with CSS. As you browse through this project, you will notice that the code is well-organized, and there is a responsive 'Add Location' chart that lets you generate your own statistics for the fictional Salmon Cookie store.",
+      "description": "Creé este sitio web para mejorar mi comprensión de las manipulaciones del DOM y divertirme experimentando con CSS. A medida que navegas por este proyecto, notarás que el código está bien organizado y hay un gráfico 'Agregar ubicación' receptivo que te permite generar tus propias estadísticas para la ficticia tienda de Galletas de Salmón.",
       "images": [
         "images/portfolio/salmon-cookies/Samcook1.png",
         "images/portfolio/salmon-cookies/Samcook1.png"
@@ -77,20 +76,19 @@
           "class": "devicon-css3-plain",
           "name": "CSS 3"
         }
-
       ]
     }
   ],
   "experience": [
     {
       "company": "Globe Life Liberty National",
-      "title": "Insurance Agent",
-      "years": "06.2023 - present",
+      "title": "Agente de Seguros",
+      "years": "06.2023 - presente",
       "skills": [
-        "Sales",
-        "Relationship Building",
-        "Bookkeeping",
-        "Consultation"
+        "Ventas",
+        "Construcción de relaciones",
+        "Contabilidad",
+        "Consulta"
       ],
       "technologies": [
         "Salesforce"
@@ -98,15 +96,15 @@
     },
     {
       "company": "Future Research",
-      "title": "Senior Performance Coach",
+      "title": "Entrenador de Rendimiento Senior",
       "years": "03.2021 - 05.2023",
       "skills": [
-        "Costumer Service",
-        "Communication",
-        "Orginaztion",
-        "Efficiency",
-        "WFH Experience",
-        "Product Development"
+        "Servicio al cliente",
+        "Comunicación",
+        "Organización",
+        "Eficiencia",
+        "Experiencia trabajando desde casa",
+        "Desarrollo de productos"
       ],
       "technologies": [
         "Asana",
@@ -116,17 +114,17 @@
     },
     {
       "company": "Webber International University",
-      "title": "Head Strength and Conditiong Coach",
+      "title": "Entrenador Principal de Fuerza y Acondicionamiento",
       "years": "07.2018 - 03.2021",
       "skills": [
-        "Budgeting",
-        "Data Collection",
-        "Team Building",
-        "Department Fundraising",
-        "Hiring/Interviews",
-        "Recruiting",
-        "Facility Operations",
-        "Public Speaking"
+        "Presupuesto",
+        "Recopilación de datos",
+        "Construcción de equipos",
+        "Recaudación de fondos del departamento",
+        "Contratación/Entrevistas",
+        "Reclutamiento",
+        "Operaciones de instalaciones",
+        "Oratoria pública"
       ],
       "technologies": [
         "Microsoft Excel, Powerpoint, Word"
