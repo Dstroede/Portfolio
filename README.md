@@ -1,3 +1,13 @@
-# Modify this portfolio
+# Drew Stroede Portfolio
 
-Make it your own! 
+## Motivation
+Building a Porfolio website for myself
+
+## Build Status
+Pending...
+
+## Website Link
+https://drewstroede.netlify.app/ 
+
+## Tech/Framework Used
+Javascript/React
