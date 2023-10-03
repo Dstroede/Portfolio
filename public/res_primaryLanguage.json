@@ -11,107 +11,125 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Gallery of horns",
+        "startDate": "2023",
+        "description": "Let me introduce you to my latest project, the 'Gallery of Horns'. It's my first dive into React and Bootstrap. The application fetches cards dynamically from a data.json file, providing users with the opportunity to click on each card for additional creature details. Moreover, it includes a feature that enables users to filter animals based on the number of horns they possess. To add a touch of personalization, the app also allows users to mark their favorite creatures.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/gallery-horns/GalleryHorns"
         ],
         "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
+
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Pair Panic",
+        "startDate": "2023",
+        "description": "Pair Panic was a collaborative effort during our final project at Code Fellows. Despite the constraints of using basic HTML, CSS, and JavaScript, we successfully crafted a highly responsive design. The website showcases a captivating matching card game that highlights the pets of each group member. Notably, the game also has the capability to record scores from users' computers.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/pair-panic/Pair1.png",
+          "images/portfolio/pair-panic/Pair2.png",
+          "images/portfolio/pair-panic/Pair3.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2023",
+        "description": "I created this website to enhance my understanding of DOM manipulations and have some fun experimenting with CSS. As you browse through this project, you will notice that the code is well-organized, and there is a responsive 'Add Location' chart that lets you generate your own statistics for the fictional Salmon Cookie store.",
+        "images": [
+          "images/portfolio/salmon-cookies/Samcook1.png",
+          "images/portfolio/salmon-cookies/Samcook1.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          }
+
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
+        "company": "Globe Life Liberty National",
+        "title": "Insurance Agent",
+        "years": "06.2023 - present",
+        "skills": [
+          "Sales",
+          "Relationship Building",
+          "Bookkeeping",
+          "Consultation"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Salesforce"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
+        "company": "Future Research",
+        "title": "Senior Performance Coach",
+        "years": "03.2021 - 05.2023",
+        "skills": [
+          "Costumer Service",
+          "Communication",
+          "Orginaztion",
+          "Efficiency",
+          "WFH Experience",
+          "Product Development"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Asana",
+          "Zoom",
+          "Microsoft Office"
+        ]
+      },
+      {
+        "company": "Webber International University",
+        "title": "Head Strength and Conditiong Coach",
+        "years": "07.2018 - 03.2021",
+        "skills": [
+          "Budgeting",
+          "Data Collection",
+          "Team Building",
+          "Department Fundraising",
+          "Hiring/Interviews",
+          "Recruiting",
+          "Facility Operations",
+          "Public Speaking"
+        ],
+        "technologies": [
+          "Microsoft Excel, Powerpoint, Word"
         ]
       }
     ]

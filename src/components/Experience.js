@@ -12,7 +12,7 @@ class Experience extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.experience;
       var work = this.props.resumeExperience.map(function (work, i) {
         const technologies = work.technologies;
-        const mainTechnologies = work.mainTech;
+        const mainTechnologies = work.skills;
 
         var mainTech = mainTechnologies.map((technology, i) => {
           return (
