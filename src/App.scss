@@ -17,16 +17,21 @@ html {
 
 .title-container {
 	height: 50px;
+	color: whitesmoke;
+	font-size: 175%;
 }
 
 .title-styles {
 	font-family: 'Raleway', sans-serif;
 	font-size: 250%;
+
 }
 
 .header-icon {
 	height: 150px;
 	width: 150px;
+	color: whitesmoke;
+	opacity: 0.8;
 }
 
 header {
@@ -95,7 +100,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: whitesmoke;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
