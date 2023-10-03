@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "Hi, I'm Drew Stroede, a software developer based in Houston, Texas. With a unique background in college athletics and a Master's Degree in Business Administration, I bring a blend of discipline and business acumen to the tech world. My career has taken me from optimizing human performance to sales and team building. But my true passion lies in web development. I'm on a mission to leverage technology to help individuals sharpen their skills, build productive habits, and reach levels of excellence they've never achieved before. I believe the web is a powerful tool for personal and professional growth. In my portfolio, you'll find a showcase of my projects and collaborations, embodying my commitment to making a positive impact through technology. Beyond my professional life, I thrive on bringing people together and fostering meaningful conversations. Let's connect and explore how we can collaborate to create something extraordinary. Together, we can make a difference in the world of technology and beyond." ,
+      "description_header": "Hello",
+      "description": "I'm Drew Stroede, a software developer based in Houston, Texas. With a unique background in college athletics and a Master's Degree in Business Administration, I bring a blend of discipline and business acumen to the tech world. My career has taken me from optimizing human performance to sales and team building. But my true passion lies in web development. I'm on a mission to leverage technology to help individuals sharpen their skills, build productive habits, and reach levels of excellence they've never achieved before. I believe the web is a powerful tool for personal and professional growth. In my portfolio, you'll find a showcase of my projects and collaborations, embodying my commitment to making a positive impact through technology. Beyond my professional life, I thrive on bringing people together and fostering meaningful conversations. Let's connect and explore how we can collaborate to create something extraordinary. Together, we can make a difference in the world of technology and beyond." ,
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -17,7 +17,7 @@
         "images": [
           "images/portfolio/gallery-horns/GalleryHorns"
         ],
-        "url": "",
+        "url": "drewhornedbeast.netlify.app",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -39,7 +39,7 @@
           "images/portfolio/pair-panic/Pair2.png",
           "images/portfolio/pair-panic/Pair3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://thundercat-co.github.io/pair-panic/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -63,7 +63,7 @@
           "images/portfolio/salmon-cookies/Samcook1.png",
           "images/portfolio/salmon-cookies/Samcook1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://dstroede.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
