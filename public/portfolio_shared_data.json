@@ -29,19 +29,14 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "70"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "75"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "70"
         },
         {
           "name": "Bootstrap",
